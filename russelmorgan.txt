@@ -1,0 +1,3 @@
+This is my first check-in into git! I blame Mindy...
+
+:P
